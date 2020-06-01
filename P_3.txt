@@ -1,0 +1,3 @@
+Time using LCG = 0.01313328742980957 sec
+
+Time using numpy.random.rand = 0.00016164779663085938 sec
